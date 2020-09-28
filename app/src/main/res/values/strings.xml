@@ -1,3 +1,13 @@
 <resources>
+    <plurals name="contact_counts">
+        <item quantity="zero">No contacts found</item>
+        <item quantity="one">%1$d contact found</item>
+        <item quantity="two">%1$d contacts found</item>
+        <item quantity="few">%1$d contacts found</item>
+        <item quantity="many">%1$d contacts found</item>
+        <item quantity="other">%1$d contacts found</item>
+    </plurals>
     <string name="app_name">ContactBook</string>
+    <string name="no_permission">Should have permission to access contacts</string>
+    <string name="no_contacts">You have no contacts</string>
 </resources>

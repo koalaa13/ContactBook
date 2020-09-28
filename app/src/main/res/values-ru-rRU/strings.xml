@@ -1,0 +1,11 @@
+<resources>
+    <plurals name="contact_counts">
+        <item quantity="one">%1$d контакт найден</item>
+        <item quantity="few">%1$d контакта найдено</item>
+        <item quantity="many">%1$d контактов найдено</item>
+        <item quantity="other">%1$d контактов найдено</item>
+    </plurals>
+    <string name="app_name">Книга контактов</string>
+    <string name="no_permission">Нужно разрешение, чтобы просматривать контакты</string>
+    <string name="no_contacts">У вас нет контактов</string>
+</resources>
